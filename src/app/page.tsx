@@ -29,7 +29,7 @@ export default function Home() {
     <main className="min-h-screen flex flex-col items-center justify-center p-8 bg-gray-50">
       <h1 className="text-3xl font-bold text-gray-800">Social Share Example</h1>
       <p className="mt-4 text-lg text-gray-600">이 페이지는 Head 컴포넌트를 사용해 OpenGraph 및 Twitter Card meta 태그를 설정하는 방법을 보여줍니다.</p>
-      <p className="mt-4 text-sm text-gray-500">참고: 메타 태그는 페이지가 배포된 후에 적용됩니다. 페이지를 배포한 후, Facebook Sharing Debugger나 Twitter Card Validator와 같은 도구로 미리보기를 확인하세요.</p>
+      <p className="mt-4 text-sm text-gray-500">참고: 메타 태그는 페이지가 배포된 후에 적용됩니다s. 페이지를 배포한 후, Facebook Sharing Debugger나 Twitter Card Validator와 같은 도구로 미리보기를 확인하세요.</p>
       <div className="mt-8">
         <img src="/sample.jpg" alt="Sample Image for Social Sharing" className="w-full max-w-md rounded-lg shadow-lg" />
       </div>
